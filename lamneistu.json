@@ -1,0 +1,12 @@
+{
+  "description": "My Web Application",
+  "domain": "is-an.app",
+  "subdomain": "lamneistu",
+  "owner": {
+    "repo": "https://github.com/aaronlun822/lamneistu",
+    "email": "leocheuklun@gmail.com"
+  },
+  "record": {
+    "CNAME": "aaronlun822.github.io"
+  }
+}
